@@ -12,7 +12,7 @@
     "command"
   ],
   "scripts": {
-    "start": "node ./bin/http-server",
+    "start": "node ./bin/http-server"
   },
   "contributors": [
     {
